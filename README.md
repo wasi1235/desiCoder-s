@@ -1,7 +1,18 @@
-# desiCoder-s
-# Domain Hosting Details
 
-A tool to uncover the actual hosting details of websites obscured by services like Cloudflare.
+#**SIH-2024**
+**Smart India Hackathon 2024**
+Team desiCoder's
+Team Members-
+Akash Rout
+Nandini Gera
+Sparsh Singh Bhatia
+Ujjawal Gupta
+Dhruv Goyal
+Ankur Gupta
+Project Name:
+Domain hosting details.
+Problem Statement- 1784
+On searching many suspicious websites on whois, their hosting appears to be on cloud flare, but after sending mail to cloud flare, say that the said website uses one of their services like SSL certificate etc. and they do not have the hosting of the website, due to which correct information about the suspicious website cannot be obtained. Challenges: Correct information from suspicious websites is not available. Expected Solution: A mechanism should be developed that can provide accurate information about suspicious websites along with their actual hosting.
 
 ## Features
 

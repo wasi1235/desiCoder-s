@@ -1,14 +1,19 @@
 
 #**SIH-2024**
 **Smart India Hackathon 2024**
-Team desiCoder's
+
+
+
+
+
+Team **desiCoder's**
 Team Members-
-Akash Rout
-Nandini Gera
-Sparsh Singh Bhatia
-Ujjawal Gupta
-Dhruv Goyal
-Ankur Gupta
+Mohd Wasiullah
+Adil Ahmad
+Arbaz Ali
+Umme Aiman Patel
+Shaikh Tabish
+Ahmad Khan
 Project Name:
 Domain hosting details.
 Problem Statement- 1784
